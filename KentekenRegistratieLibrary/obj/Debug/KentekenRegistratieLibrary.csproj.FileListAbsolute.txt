@@ -1,0 +1,5 @@
+D:\github\StudyProjects\KentekenRegistratie\Kenteken-Registratie\KentekenRegistratieLibrary\bin\Debug\KentekenRegistratieLibrary.dll
+D:\github\StudyProjects\KentekenRegistratie\Kenteken-Registratie\KentekenRegistratieLibrary\bin\Debug\KentekenRegistratieLibrary.pdb
+D:\github\StudyProjects\KentekenRegistratie\Kenteken-Registratie\KentekenRegistratieLibrary\obj\Debug\KentekenRegistratieLibrary.csprojResolveAssemblyReference.cache
+D:\github\StudyProjects\KentekenRegistratie\Kenteken-Registratie\KentekenRegistratieLibrary\obj\Debug\KentekenRegistratieLibrary.dll
+D:\github\StudyProjects\KentekenRegistratie\Kenteken-Registratie\KentekenRegistratieLibrary\obj\Debug\KentekenRegistratieLibrary.pdb

@@ -1,0 +1,67 @@
+﻿body{
+    font-family:arial;
+}
+
+/* Master Page Containers*/
+#mainContainer{
+    height:300px;
+    width:450px;
+    background-color:white;
+}
+#HeaderContainer{
+    height:45px;
+    vertical-align:central;
+    text-align:center;
+}
+#centerContainer{
+    height:255px;
+}
+#MenuContainer{
+    height:45px;
+    background-image:url("imgo.png");
+    width:450px;
+}
+#ContentContainer{
+    height:210px;
+    margin-top:25px;
+    vertical-align:central;
+    text-align:center;
+}
+
+
+/* END OF MASTER PAGE CONTAINERS*/
+
+/* MASTER PAGE CONTROLS */
+
+#lblHeader{
+    font-weight:bold;
+}
+
+.btnMenu{
+    width:100px;
+    height:45px;
+    font-size:16px;
+    font-weight:bold;
+    opacity:0.5;
+    border:none;
+}
+.btnMenu:hover{
+    opacity:1.0;
+}
+
+#btnHome:hover{
+}
+#btnUitloggen{
+    position:absolute;
+    margin-left:250px;
+}
+/* END OF MASTER PAGE CONTROLS */
+
+/* Login page controls */
+#lblGebruikersnaam{}
+#txtGebruikersnaam{}
+#lblWachtwoord{}
+#txtWachtwoord{}
+#btnLogin{}
+
+/* END OF LOGIN PAGE CONTROLS*/

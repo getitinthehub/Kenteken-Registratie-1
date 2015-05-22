@@ -1,0 +1,35 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="RDWMain.master.cs" Inherits="KentekenRegistratie.RDWMain" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <link href="mainStyle.css" rel="stylesheet" />
+    <title>RDW InformatieSysteem</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div id="mainContainer">
+        <div id="HeaderContainer">
+
+            <asp:Label ID="lblHeader" runat="server" Text="RDW Informatie Systeem"></asp:Label>
+
+        </div>
+        <div id="centerContainer">
+            <div id="MenuContainer" >
+                <button id="btnHome" class="btnMenu" runat="server" href="home.aspx">HOME</button>
+            
+                <button id="btnUitloggen" class="btnMenu" runat="server" href="uitloggen.aspx">UITLOGGEN</button>
+            </div>
+        <div id="ContentContainer">
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+            </div>
+            </div>
+    </div>
+    </form>
+</body>
+</html>

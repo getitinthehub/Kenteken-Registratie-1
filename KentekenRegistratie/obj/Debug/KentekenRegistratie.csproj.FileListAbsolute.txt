@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\Studie\KentekenRegistratie\KentekenRegistratie\bin\KentekenRegistratie.dll.config
+C:\Users\Admin\Desktop\Studie\KentekenRegistratie\KentekenRegistratie\bin\KentekenRegistratie.dll
+C:\Users\Admin\Desktop\Studie\KentekenRegistratie\KentekenRegistratie\bin\KentekenRegistratie.pdb
+C:\Users\Admin\Desktop\Studie\KentekenRegistratie\KentekenRegistratie\obj\Debug\KentekenRegistratie.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Studie\KentekenRegistratie\KentekenRegistratie\obj\Debug\KentekenRegistratie.dll
+C:\Users\Admin\Desktop\Studie\KentekenRegistratie\KentekenRegistratie\obj\Debug\KentekenRegistratie.pdb
+C:\Users\Admin\Desktop\Studie\KentekenRegistratie\KentekenRegistratie\bin\imgo.png
+D:\github\StudyProjects\KentekenRegistratie\Kenteken-Registratie\KentekenRegistratie\obj\Debug\KentekenRegistratie.csprojResolveAssemblyReference.cache
+D:\github\StudyProjects\KentekenRegistratie\Kenteken-Registratie\KentekenRegistratie\obj\Debug\KentekenRegistratie.dll
+D:\github\StudyProjects\KentekenRegistratie\Kenteken-Registratie\KentekenRegistratie\bin\imgo.png
+D:\github\StudyProjects\KentekenRegistratie\Kenteken-Registratie\KentekenRegistratie\bin\KentekenRegistratie.dll.config
+D:\github\StudyProjects\KentekenRegistratie\Kenteken-Registratie\KentekenRegistratie\bin\KentekenRegistratie.dll
+D:\github\StudyProjects\KentekenRegistratie\Kenteken-Registratie\KentekenRegistratie\bin\KentekenRegistratie.pdb
+D:\github\StudyProjects\KentekenRegistratie\Kenteken-Registratie\KentekenRegistratie\bin\KentekenRegistratieLibrary.dll
+D:\github\StudyProjects\KentekenRegistratie\Kenteken-Registratie\KentekenRegistratie\bin\KentekenRegistratieLibrary.pdb
+D:\github\StudyProjects\KentekenRegistratie\Kenteken-Registratie\KentekenRegistratie\obj\Debug\KentekenRegistratie.pdb
